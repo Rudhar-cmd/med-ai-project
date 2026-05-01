@@ -39,9 +39,7 @@ npm run dev
 
 ## Backend (not connected yet)
 
-Right now the app uses fake data.
-
-Later, you can connect a backend API at:
+you can connect a backend API at:
 
 http://localhost:5000/predict
 
